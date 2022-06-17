@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# For Mac
+.DS_Store
+
+# Recoard video
+*.mp4
