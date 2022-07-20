@@ -1,8 +1,6 @@
 # Cache server will recieve video stream from the the drone camera
 # Also it will serve this video stream to multiple clients 
-# Lets import the libraries
-# Welcome to PyShine
-# www.pyshine.com
+
 import socket, cv2, pickle, struct
 import imutils # pip install imutils
 import threading
